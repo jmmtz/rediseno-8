@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./larue_ultimate/tsconfig.node.json" },
+    { "path": "./tsconfig.app.json" }
+  ]
+}
